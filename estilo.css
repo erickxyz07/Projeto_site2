@@ -1,0 +1,21 @@
+/* todos os imports tem de ser colocados no inicio do css */
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+
+body{
+    background-color: rgb(40, 5, 65);
+}
+
+.adalberto{
+    width:100px ;
+}
+
+/* Classe para configuração de fonte */
+.fonte{
+    color: mediumturquoise;
+    size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} 
